@@ -41,3 +41,4 @@ float_formatter = "{:.2f}".format
 
 st.subheader('Prediction')
 st.write(str(float_formatter(prediction)),'$')
+st.write(df_dummy)
