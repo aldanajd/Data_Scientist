@@ -30,7 +30,7 @@ def user_input_features():
     df_dummy['Mileage'] = mileage
     df_dummy['EngineV'] = engine
     if engine_type != 'Diesel': 
-        df_dummy['Engine Type_'+ str(engine_type)] = 1
+        df_dummy['Engine Type_'+ engine_type] = 1
 
     return df_dummy
 
