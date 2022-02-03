@@ -19,14 +19,14 @@ def user_input_features():
 
     columns = ['Mileage', 'EngineV','Brand_BMW', 'Brand_Mercedes-Benz',
         'Brand_Mitsubishi', 'Brand_Renault', 'Brand_Toyota', 'Brand_Volkswagen',
-        'Body_Hatch', 'Body_Other', 'Body_Sedan', 'Body_Vagon', 'Body_Van',
+        'Body_hatch', 'Body_other', 'Body_sedan', 'Body_vagon', 'Body_van',
         'Engine Type_Gas', 'Engine Type_Other', 'Engine Type_Petrol']
 
     df_dummy = pd.DataFrame(data= [[0]*len(columns)],columns=columns)
 
     if brand != 'Audi':
-        df_dummy['Brand_'+ str(brand)] = 1
-    df_dummy['Body_'+ str(body)] = 1
+        df_dummy['Brand_'+ brand] = 1
+    df_dummy['Body_'+ body.lower()] = 1
     df_dummy['Mileage'] = mileage
     df_dummy['EngineV'] = engine
     if engine_type != 'Diesel': 
