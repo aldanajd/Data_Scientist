@@ -35,8 +35,8 @@ def user_input_features():
     return df_dummy
 
 inputs = user_input_features()
-cars_lr_model = joblib.load('cars_lr_model.pkl')
-prediction = np.exp(cars_lr_model.predict(inputs))[0]
+cars_price_estimator = joblib.load('Deployment/Regression/Cars_price_estimator/cars_price_estimator.pkl')
+prediction = np.exp(cars_price_estimator.predict(inputs))[0]
 float_formatter = "{:.2f}".format
 
 st.subheader('Prediction')
