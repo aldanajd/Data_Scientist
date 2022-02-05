@@ -26,7 +26,7 @@ def user_inputs():
     PetalWidthCm = st.sidebar.slider('Petal Width (Cm)', min_value=0.0, max_value=15.0, value=5.0, step=0.1, key=None)
     st.header('Prediction by ' + model, anchor=None)
 
-    features = np.array([SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm]).reshape(1, -1)
+    features = pd.DataFrame(np.array([SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm]).reshape(1, -1), columns=['SepalLengthCm','SepalWidthCm','PetalLengthCm','PetalWidthCm'])
 
     if model == 'Random Forest Classifier':
         model = rfc
