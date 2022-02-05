@@ -35,7 +35,6 @@ def user_inputs():
     else:
         model = lr
 
-
     return pd.io.formats.style.Styler(pd.DataFrame(model.predict_proba(features), columns = ['Iris-setosa', 'Iris-versicolor', 'Iris-virginica']), precision=2).highlight_max(axis=0)
 
 user_inputs = user_inputs()
