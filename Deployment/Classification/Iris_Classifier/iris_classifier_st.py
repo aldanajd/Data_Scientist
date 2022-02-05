@@ -6,9 +6,9 @@ import numpy as np
 import streamlit as st
 import joblib
 
-rfc = joblib.load('iris_rfc.pkl')
-gbc = joblib.load('iris_gbc.pkl')
-lr = joblib.load('iris_lr.pkl')
+rfc = joblib.load('Deployment/Classification/Iris_Classifier/iris_rfc.pkl')
+gbc = joblib.load('Deployment/Classification/Iris_Classifier/iris_gbc.pkl')
+lr = joblib.load('Deployment/Classification/Iris_Classifier/iris_lr.pkl')
 
 
 st.write("""
