@@ -150,4 +150,6 @@ else:
 
         return fig
     
-    st.pyplot(plots())
+    subplot = plots(df, df_scaled, clusters)
+    
+    st.pyplot(subplot)
