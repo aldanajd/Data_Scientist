@@ -128,6 +128,7 @@ else:
 
     clusters = st.sidebar.select_slider('Select Number of Clusters',[2,3,4,5], key=2)
     
+    @st.cache  
     def kmean(df,df_scaled,clusters):
         
         kmeans = kmeans_scaled = KMeans(clusters)
