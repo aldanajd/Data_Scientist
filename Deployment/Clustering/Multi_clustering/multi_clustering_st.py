@@ -28,7 +28,7 @@ if data == 'Insert your cleaned data.csv':
         if standardize == [] and features != []:
             wcss = []
             
-            @st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True)
             for iter in range(1,int(len(df)*0.33)):
                 kmeans = KMeans(iter)
                 kmeans.fit(df[features])
