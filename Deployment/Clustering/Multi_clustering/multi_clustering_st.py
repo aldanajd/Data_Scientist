@@ -28,7 +28,6 @@ if data == 'Insert your cleaned data.csv':
         if standardize == [] and features != []:
             wcss = []
             
-@st.cache(suppress_st_warning=True)
             for iter in range(1,int(len(df)*0.33)):
                 kmeans = KMeans(iter)
                 kmeans.fit(df[features])
@@ -36,7 +35,6 @@ if data == 'Insert your cleaned data.csv':
 
             elbow_clusters = []
             
-            @st.cache(suppress_st_warning=True)
             for i,l in zip(wcss[1:], wcss):
                 if i <= l*0.75:
 
@@ -68,7 +66,6 @@ if data == 'Insert your cleaned data.csv':
             df_scaled[standardize] = scale(df_scaled[standardize])         
             wcss = []
 
-            @st.cache(suppress_st_warning=True)
             for iter in range(1,int(len(df)*0.33)):
                 kmeans = KMeans(iter)
                 kmeans.fit(df_scaled[features])
@@ -76,7 +73,6 @@ if data == 'Insert your cleaned data.csv':
 
             elbow_clusters = []
 
-            @st.cache(suppress_st_warning=True)
             for i,l in zip(wcss[1:], wcss):
                 if i <= l*0.75:
 
