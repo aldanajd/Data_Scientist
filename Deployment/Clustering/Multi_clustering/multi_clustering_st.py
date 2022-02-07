@@ -152,4 +152,4 @@ else:
 
     subplots = plot()
     
-    st.pyplot(subplots(df, df_scaled, clusters)
+    st.pyplot(plot())
