@@ -122,7 +122,7 @@ if data == 'Insert your cleaned data.csv':
             
 else:
 
-    data = pd.read_csv'Deployment/Clustering/Multi_clustering/loyalty_satisfaction.csv')
+    data = pd.read_csv('Deployment/Clustering/Multi_clustering/loyalty_satisfaction.csv')
     df = data.copy()
     df_scaled = pd.DataFrame(scale(df), columns=df.columns)
 
