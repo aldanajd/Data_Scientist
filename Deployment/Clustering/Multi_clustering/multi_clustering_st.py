@@ -127,15 +127,19 @@ else:
     df_scaled = pd.DataFrame(scale(df), columns=df.columns)
 
     clusters = st.sidebar.select_slider('Select Number of Clusters',[2,3,4,5], key=2)
-
-    kmeans = kmeans_scaled = KMeans(clusters)
-    kmeans.fit(df)
-    kmeans_scaled.fit(df_scaled)
-
-    df[str(clusters)+'_Clusters'] = kmeans.fit_predict(df)
-    df_scaled[str(clusters)+'_Clusters'] = kmeans.fit_predict(df_scaled)
     
-    @st.cache()
+    def kmean(df,df_scaled,clusters):
+        
+        kmeans = kmeans_scaled = KMeans(clusters)
+        kmeans.fit(df)
+        kmeans_scaled.fit(df_scaled)
+
+        df[str(clusters)+'_Clusters'] = kmeans.fit_predict(df)
+        df_scaled[str(clusters)+'_Clusters'] = kmeans.fit_predict(df_scaled)
+     
+    kmeans = kmean(df,df_scaled,clusters)
+    kmeans
+    
     def plots(df, df_scaled, clusters):
     
         fig, ax = plt.subplots(2,1, figsize=[7,10])
