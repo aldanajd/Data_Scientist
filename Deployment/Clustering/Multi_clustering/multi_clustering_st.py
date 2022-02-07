@@ -8,6 +8,7 @@ from sklearn.preprocessing import scale
 
 sns.set()
 
+@st.cache(suppress_st_warning=True)
 data = st.sidebar.radio('Choose which data.csv to use',['Insert your cleaned data.csv','Use pre-existing data.csv'])
 
 if data == 'Insert your cleaned data.csv':
