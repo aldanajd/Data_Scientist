@@ -149,7 +149,5 @@ else:
         ax[1].set_ylabel(df.columns[1])       
 
         return fig
-
-    subplots = plot()
     
-    st.pyplot(plot())
+    st.pyplot(plots())
