@@ -20,8 +20,8 @@ kmeans = kmeans_scaled = KMeans(clusters)
 kmeans_scaled.fit(df_scaled)
 
 for i in [2,3,4,5]:
-    joblib.dump(KMeans(i).fit(df),i+'_kmeans.pkl')
-    joblib.dump(KMeans(i).fit(df_scaled),i+'_kmeans_scaled.pkl')
+    joblib.dump(KMeans(i).fit(df),str(i)+'_kmeans.pkl')
+    joblib.dump(KMeans(i).fit(df_scaled),str(i)+'_kmeans_scaled.pkl')
 
 df[str(clusters)+'_Clusters'] = kmeans.fit_predict(df)
 df_scaled[str(clusters)+'_Clusters'] = kmeans.fit_predict(df_scaled)
