@@ -135,7 +135,7 @@ else:
     df[str(clusters)+'_Clusters'] = kmeans.fit_predict(df)
     df_scaled[str(clusters)+'_Clusters'] = kmeans.fit_predict(df_scaled)
     
-    
+    @st.cache(suppress_st_warning=True)
     def plots(df, df_scaled, clusters):
     
         fig, ax = plt.subplots(2,1, figsize=[7,10])
