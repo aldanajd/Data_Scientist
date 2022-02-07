@@ -22,18 +22,3 @@ kmeans_scaled.fit(df_scaled)
 for i in [2,3,4,5]:
     joblib.dump(KMeans(i).fit(df),str(i)+'_kmeans.pkl')
     joblib.dump(KMeans(i).fit(df_scaled),str(i)+'_kmeans_scaled.pkl')
-
-df[str(clusters)+'_Clusters'] = kmeans.fit_predict(df)
-df_scaled[str(clusters)+'_Clusters'] = kmeans.fit_predict(df_scaled)
-
-fig, ax = plt.subplots(2,1, figsize=[7,10])
-ax[0].scatter(df.iloc[:,0],df.iloc[:,1])
-ax[0].title.set_text('Plot without Clusters')
-ax[0].set_ylabel(df.columns[1])
-
-ax[1].scatter(df.iloc[:,0],df.iloc[:,1], c=df_scaled[str(clusters)+'_Clusters'], cmap='cool')
-ax[1].title.set_text('Plot with Clusters')
-ax[1].set_xlabel(df.columns[0])
-ax[1].set_ylabel(df.columns[1])       
-
-st.pyplot(dig)
