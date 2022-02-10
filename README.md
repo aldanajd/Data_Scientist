@@ -4,13 +4,13 @@ Entry Level Data Scientist Projects - Watch in [Github.io](https://aldanajd.gith
 
 # Regression:
 
-## Project #1: [Trading Log](https://github.com/aldanajd/Entry_level_Projects/tree/main/Excel%20Projects/Trading%20Log)
+## Project #1: [Car Price Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/Cars_price_estimator)
 
 ![](Images/Trading_log_1.png)
 
 ![](Images/Trading_log_2.png)
 
-## Project #2: [Selling Records](https://github.com/aldanajd/Entry_level_Projects/tree/main/Excel%20Projects/Selling%20Records) 
+## Project #2: [GPA Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/GPA_estimator) 
 
 * Overview: A project to practice tables and VLOOKUP 
 
