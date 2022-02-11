@@ -1,6 +1,4 @@
-# Data_Scientist_I
-
-Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Analyst_I/)
+Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Scientist/)
 
 # Regression:
 
