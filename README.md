@@ -4,10 +4,6 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #1: [Car Price Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/Cars_price_estimator)
 
-![](Images/Trading_log_1.png)
-
-![](Images/Trading_log_2.png)
-
 ## Project #2: [GPA Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/GPA_estimator) 
 
 # Classification:
