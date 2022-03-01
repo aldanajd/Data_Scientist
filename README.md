@@ -29,4 +29,11 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #1: [Fraud Detection](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Anomaly%20Detection/Fraud%20Detection)
 
+# Natural Language Processing:
+
+## Project #1: [Sentiment Analysis: Steam Reviews](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Sentiment%20Analysis/Steam%20Reviews)
+
+## Project #2: [Text to Speech](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Text%20to%20Speech)
+
+
 
