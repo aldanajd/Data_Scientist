@@ -6,6 +6,8 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #2: [GPA Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/GPA_estimator) 
 
+## Project #3: [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting) 
+
 # Classification:
 
 ## Project #1: [Binary Admittance](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Classification/Binary_admittance)
