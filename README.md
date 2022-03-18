@@ -4,10 +4,6 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #1: [Car Price Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/Cars_price_estimator)
 
-![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Cars_price_estimator/exploring.png)
-
-![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Cars_price_estimator/prediction_vs_train.png)
-
 ### Model Deployed At: [Car Price Estimator Web App](https://share.streamlit.io/aldanajd/data_scientist_i/main/Deployment/Regression/Car_price_estimator/car_price_st.py) 
 
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Cars_price_estimator/Car_price_web_app.PNG)
