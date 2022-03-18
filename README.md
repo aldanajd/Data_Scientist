@@ -22,6 +22,8 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #1: [Client Segmentation](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Clustering/Client_segmentation)
 
+### Model Deployed At: [Client Segmentation Web App](https://share.streamlit.io/aldanajd/data_scientist_i/main/Deployment/Clustering/Multi_clustering/multi_clustering_st.py)
+
 # Anomaly Detection:
 
 ## Project #1: [Fraud Detection](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Anomaly%20Detection/Fraud%20Detection)
