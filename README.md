@@ -17,8 +17,7 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #2: [Iris Flower](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Classification/Iris_Flower)
 
-### Model Deployed At: [Iris Flower Classification Web App]
-(https://share.streamlit.io/aldanajd/data_scientist_i/main/Deployment/Classification/Iris_Classifier/iris_classifier_st.py)
+### Model Deployed At: [Iris Flower Classification Web App](https://share.streamlit.io/aldanajd/data_scientist_i/main/Deployment/Classification/Iris_Classifier/iris_classifier_st.py)
 
 # Clustering:
 
