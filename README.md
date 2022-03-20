@@ -43,5 +43,7 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #3: [Speech to Text](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Speech%20to%20Text)
 
+# Computer Vision (In Process):
 
+# Reinforment Learning (In Process):
 
