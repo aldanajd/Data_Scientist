@@ -2,15 +2,15 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 # Regression:
 
-## Project #1: [Car Price Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/Cars_price_estimator)
+## Project #1: [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting) 
+
+## Project #2: [Car Price Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/Cars_price_estimator)
 
 ### Model Deployed At: [Car Price Estimator Web App](https://share.streamlit.io/aldanajd/data_scientist_i/main/Deployment/Regression/Car_price_estimator/car_price_st.py) 
 
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Deployment/Regression/Car_price_estimator/Car_price_web_app.PNG)
 
-## Project #2: [GPA Estimator](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/GPA_estimator) 
-
-## Project #3: [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting) 
+## Project #3: [GPA Estimator](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/GPA_estimator) 
 
 # Classification:
 
