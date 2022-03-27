@@ -39,6 +39,8 @@ Entry Level Data Science Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #1: [Sentiment Analysis: Steam Reviews](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Sentiment%20Analysis/Steam%20Reviews)
 
+![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/NLP/Sentiment%20Analysis/Steam%20Reviews/Untitled.png)
+
 ## Project #2: [Text to Speech](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Text%20to%20Speech)
 
 ## Project #3: [Speech to Text](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Speech%20to%20Text)
