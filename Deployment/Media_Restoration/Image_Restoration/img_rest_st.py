@@ -1,6 +1,4 @@
-from ast import If
 import streamlit as st
-import matplotlib.pyplot as plt
 import os 
 
 upload = st.sidebar.file_uploader("Upload an image...", type=["jpg", "png"])
