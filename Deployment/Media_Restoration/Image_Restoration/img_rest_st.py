@@ -6,7 +6,7 @@ upload = st.sidebar.file_uploader("Upload an image...", type=["jpg", "png"])
 convert = 'git clone https://github.com/xinntao/Real-ESRGAN.git'
 convert2 = 'pip install realesrgan'
 asd = os.name
-fgh = platform.system())
+fgh = platform.system()
 
 if upload != None:
     
