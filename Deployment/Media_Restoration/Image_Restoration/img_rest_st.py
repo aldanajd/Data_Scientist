@@ -8,7 +8,7 @@ convert2 = 'pip install realesrgan'
 if upload != None:
     
     #os.system(convert)
-    #os.system(convert2)
+    os.system(convert2)
 
     st.image(upload, caption='Original Image', width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
-    st.image(upload, caption='Upscaled Image, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+    st.image(upload, caption='Upscaled Image', width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
