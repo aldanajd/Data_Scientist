@@ -1,5 +1,6 @@
 import streamlit as st
 import os 
+import platform
 
 upload = st.sidebar.file_uploader("Upload an image...", type=["jpg", "png"])
 convert = 'git clone https://github.com/xinntao/Real-ESRGAN.git'
