@@ -1,7 +1,4 @@
-from ast import If
 import streamlit as st
-import matplotlib.pyplot as plt
-import os 
 
 upload = st.sidebar.file_uploader("Upload an image...", type=["jpg", "png"])
 #convert = 'python inference_realesrgan.py -n RealESRGAN_x4plus -i upload --outscale 3.5 --half --face_enhance'
