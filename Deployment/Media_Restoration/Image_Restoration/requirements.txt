@@ -1,1 +1,6 @@
+Pillow
+numpy
+opencv-python
+torchvision
+tqdm
 realesrgan
