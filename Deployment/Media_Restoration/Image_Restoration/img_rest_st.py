@@ -2,7 +2,7 @@ import streamlit as st
 import os 
 
 upload = st.sidebar.file_uploader("Upload an image...", type=["jpg", "png"])
-convert = 'python inference_realesrgan.py -n RealESRGAN_x4plus -i upload --outscale 3.5 --half --face_enhance'
+convert = 'pip install realesrgan'
 
 if upload != None:
 
