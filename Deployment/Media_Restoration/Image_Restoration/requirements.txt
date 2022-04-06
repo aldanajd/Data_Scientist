@@ -1,6 +1,7 @@
 Pillow
 numpy
 opencv-python
+torch
 torchvision
 tqdm
 realesrgan
