@@ -41,7 +41,7 @@ Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Sci
 
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/NLP%20%2B%20Speech/Sentiment%20Analysis/Steam%20Reviews/Images/polarity_plot.png)
 
-![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/NLP%20%2B%20Speech/Sentiment%20Analysis/Steam%20Reviews/Images/recommendation_df.png)
+![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/NLP%20%2B%20Speech/Sentiment%20Analysis/Steam%20Reviews/Images/word_freq.png)
 
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/NLP%20%2B%20Speech/Sentiment%20Analysis/Steam%20Reviews/Images/recommendation_df.png)
 
