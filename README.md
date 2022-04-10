@@ -55,5 +55,5 @@ Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Sci
 
 # Computer Vision (In Process):
 
-# Reinforment Learning (In Process):
+# Deep Reinforment Learning (In Process):
 
