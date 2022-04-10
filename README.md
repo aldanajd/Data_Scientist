@@ -5,8 +5,8 @@ Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Sci
 ## Project #1: [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting) 
 
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/prophet_predictions2.png)
-![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/prophet_predictions.png)
-![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/sklearn_rf_predictions.png)
+![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/prophet_predictions.JPG)
+![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/sklearn_rf_predictions.JPG)
 
 ## Project #2: [Car Price Estimator](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Regression/Cars_price_estimator)
 
