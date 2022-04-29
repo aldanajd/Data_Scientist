@@ -4,7 +4,7 @@ Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Sci
 
 ## Project #1: [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting) 
 
-![Dashboard](https://public.tableau.com/views/SalesForecasting_16511965305110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Dashboard](https://public.tableau.com/views/SalesForecasting_16511965305110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![](https://github.com/aldanajd/Data_Analyst/blob/main/Images/Tableau_dasboard%20-%20sales_clp.png)
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/prophet_predictions2.png)
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/prophet_predictions.JPG)
