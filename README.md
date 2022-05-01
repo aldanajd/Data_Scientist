@@ -57,5 +57,7 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 # Deep Learning (In Process):
 
-# Deep Reinforment Learning (In Process):
+# Deep Reinforment Learning:
+
+## Project #2: [Balance the CartPole](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Deep%20Reinforcement%20Learning/Cartpole_intro_to_RL)
 
