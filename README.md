@@ -10,6 +10,7 @@ Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Sci
 
 * IF, Counts, Macros, Lists, Tables, Sheet-to-sheet, Converter, etc.
 
+![](https://github.com/aldanajd/Data_Scientist/blob/main/Images/Trading_log_1.png)
 ![](Images/Trading_log_1.png)
 
 ![](Images/Trading_log_2.png)
