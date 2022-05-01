@@ -7,6 +7,8 @@ Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Sci
 
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Images/Untitled.png)
 
+![](https://github.com/aldanajd/Data_Scientist/blob/main/Images/123.png)
+
 ![](Images/Trading_log_1.png)
 
 # Regression:
