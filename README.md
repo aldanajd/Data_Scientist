@@ -22,7 +22,6 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 ## Project #1: [Binary Admittance](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Classification/Binary_admittance)
 
-
 ## Project #2: [Iris Flower](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Classification/Iris_Flower)
 
 ### Model Deployed At: [Iris Flower Classification Web App](https://share.streamlit.io/aldanajd/data_scientist/main/Deployment/Classification/Iris_Classifier/iris_classifier_st.py)
