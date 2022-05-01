@@ -55,7 +55,7 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 ## Project #3: [Speech to Text](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Speech%20to%20Text)
 
-# Computer Vision (In Process):
+# Deep Learning (In Process):
 
 # Deep Reinforment Learning (In Process):
 
