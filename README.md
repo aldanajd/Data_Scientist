@@ -43,7 +43,7 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 # Natural Language Processing and Speech:
 
-## Project #1: [Sentiment Analysis: Steam Reviews](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Sentiment%20Analysis/Steam%20Reviews)
+## Project #1: [Sentiment Analysis: Steam Reviews](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP%20%2B%20Speech/Sentiment%20Analysis/Steam%20Reviews)
 
 ![](Machine%20Learning/NLP%20%2B%20Speech/Sentiment%20Analysis/Steam%20Reviews/Images/polarity_plot.png)
 
@@ -51,9 +51,9 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 ![](Machine%20Learning/NLP%20%2B%20Speech/Sentiment%20Analysis/Steam%20Reviews/Images/recommendation_df.png)
 
-## Project #2: [Text to Speech](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Text%20to%20Speech)
+## Project #2: [Text to Speech](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP%20%2B%20Speech/Text%20to%20Speech)
 
-## Project #3: [Speech to Text](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Speech%20to%20Text)
+## Project #3: [Speech to Text](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP%20%2B%20Speech/Speech%20to%20Text)
 
 # Deep Learning (In Process):
 
