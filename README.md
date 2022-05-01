@@ -1,9 +1,25 @@
 Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Scientist/)
 
+# Excel Projects:
+
+## Project #1: [Trading Log](https://github.com/aldanajd/Entry_level_Projects/tree/main/Excel%20Projects/Trading%20Log)
+
+* Overview: This trading log helps traders keep a track about their day-to-day trading and the current trade they are doing (or thinking about doing), this historical data can then be used to extract insights whether to take a trade or not to take it.
+
+* Background: Unconsciously (Ignoring the existence of this field), this was my first step into the data analysis, I am a very organized person therefore if I have the goal of starting (or help someone to start) into a subject that can be quantified it must be through the use of data. I started this project while knowing absolutely nothing about excel but that didn't stop me, I thought about what and how to reflect, created a plan and then searched how to complete the tasks I assigned myself to do.
+
+* IF, Counts, Macros, Lists, Tables, Sheet-to-sheet, Converter, etc.
+
+![](Images/Trading_log_1.png)
+
+![](Images/Trading_log_2.png)
+
 # Regression:
 
 ## Project #1: [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting) 
 
+Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_16511965305110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+![](https://github.com/aldanajd/Data_Analyst/blob/main/Images/Tableau_dasboard%20-%20sales_clp.png)
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/prophet_predictions2.png)
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/prophet_predictions.JPG)
 ![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Regression/Sales_Forescasting/Images/sklearn_rf_predictions.JPG)
@@ -19,7 +35,6 @@ Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Sci
 # Classification:
 
 ## Project #1: [Binary Admittance](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Classification/Binary_admittance)
-
 
 ## Project #2: [Iris Flower](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Classification/Iris_Flower)
 
@@ -53,7 +68,7 @@ Data Science Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Sci
 
 ## Project #3: [Speech to Text](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP/Speech%20to%20Text)
 
-# Computer Vision (In Process):
+# Deep Learning (In Process):
 
 # Deep Reinforment Learning (In Process):
 
