@@ -29,6 +29,11 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 ![](Deployment/Classification/Iris_Classifier/Iris_classifier_web_app.PNG)
 
+## Project #3: [Python and SQL](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Classification/SQL_Python)
+
+![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Classification/SQL_Python/Images/sql_python_syntax.PNG)
+![](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Classification/SQL_Python/Images/sql_python_result.PNG)
+
 # Clustering:
 
 ## Project #1: [Client Segmentation](https://github.com/aldanajd/Data_Scientist_I/tree/main/Machine%20Learning/Clustering/Client_segmentation)
