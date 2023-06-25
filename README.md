@@ -62,10 +62,13 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 # Deep Learning (Computer Vision):
 
-## Project #1: [Clothing Classifier]
-(https://github.com/aldanajd/Clothing_classifier)
+## Project #1: [Clothing Classifier](https://github.com/aldanajd/Clothing_classifier)
 
 ### Model Deployed At: [Clothing Classifier Web App](https://aldanajd-clothing-classifier-classifier-app-st-mu353i.streamlit.app/)
+
+![TensorFlow Confusion Matrix](https://github.com/aldanajd/Clothing_classifier/blob/main/images/cf.png)
+
+![TensorFlow Model Metrics](https://github.com/aldanajd/Clothing_classifier/blob/main/images/hp_accuracy.png)
 
 # Deep Reinforment Learning:
 
