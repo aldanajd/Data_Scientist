@@ -60,7 +60,12 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 ## Project #3: [Speech to Text](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/NLP%20%2B%20Speech/Speech%20to%20Text)
 
-# Deep Learning (In Process):
+# Deep Learning (Computer Vision):
+
+## Project #1: [Clothing Classifier]
+(https://github.com/aldanajd/Clothing_classifier)
+
+### Model Deployed At: [Clothing Classifier Web App](https://aldanajd-clothing-classifier-classifier-app-st-mu353i.streamlit.app/)
 
 # Deep Reinforment Learning:
 
