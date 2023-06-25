@@ -74,7 +74,7 @@ Link to the [Dashboard](https://public.tableau.com/views/SalesForecasting_165119
 
 ## Project #1: [Balance the CartPole](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Deep%20Reinforcement%20Learning/Cartpole_intro_to_RL)
 
-![Before Deep Reinforcement Learning](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Deep%20Reinforcement%20Learning/Cartpole_intro_to_RL/Gif/before_rl.gif)
+![Before Deep Reinforcement Learning](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Deep%20Reinforcement%20Learning/Cartpole_intro_to_RL/Media/before_rl.gif)
 
-![After Deep Reinforcement Learning](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Deep%20Reinforcement%20Learning/Cartpole_intro_to_RL/Gif/after_rl.gif)
+![After Deep Reinforcement Learning](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Deep%20Reinforcement%20Learning/Cartpole_intro_to_RL/Media/after_rl.gif)
 
