@@ -1,5 +1,3 @@
-import os
-
 # Titanic data set path
 path = 'titanic.csv'
 
