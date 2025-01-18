@@ -1,2 +1,2 @@
 stable-baselines3[extra]
-gym
+gymnasium[all]
