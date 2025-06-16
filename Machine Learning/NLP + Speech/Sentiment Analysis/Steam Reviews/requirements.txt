@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+nltk
+textblob
+wordcloud
+webdriver-manager
+selenium
